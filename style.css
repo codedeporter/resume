@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.pic {
+    width: 100px;
+    height: 100px;
+}
+
+body {
+    margin: 20px;
+    background-color: #EAF6f6;
+}
+
+hr {
+    
+    border-style:dotted none none none;
+    border-width: 5px;
+    border-color: gray;
+    width:5%;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #66bfbf;
+    font-weight: bold;
+}
+
+h3 {
+    color: #66bfbf;
+}
